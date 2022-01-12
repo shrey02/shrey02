@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://ouch-cdn2.icons8.com/cAKAxuhuoHEAZkYbTLjWWY3nYPlD4P86AWLNN3X2S8g/rs:fit:912:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTMv/ODI5ODk2MWItNzk0/Yi00MDkyLTkxMTIt/YTY1NmIwNGM0MTRi/LnN2Zw.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="—Pngtree—flat%20design%20concept%20of%20programmers_5870919.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shrey</h1>
 <h3 align="center">I'm a passionate Front-end Developer from India.</h3>
 
