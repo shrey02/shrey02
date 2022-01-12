@@ -12,8 +12,7 @@
   
 -  🔭 Try out my **[Meme-Generator](https://eloquent-haibt-f41e05.netlify.app/)**
   
--  🔭 Check out my weather calculator **[
- MyweatherApp](https://my-weather-calculator.netlify.app/)**
+-  🔭 Check out **[MyweatherApp](https://my-weather-calculator.netlify.app/)**
 
 
 
