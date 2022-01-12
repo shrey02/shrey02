@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="—Pngtree—flat%20design%20concept%20of%20programmers_5870919.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="pic.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shrey</h1>
 <h3 align="center">I'm a passionate Front-end Developer from India.</h3>
 
